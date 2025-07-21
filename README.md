@@ -21,3 +21,7 @@ Build a console-based **Tic-Tac-Toe game** where a human plays against an **unbe
 2. Run the script using Python 3:
 ```bash
 python task2_tic_tac_toe_ai.py
+```
+
+## 📽️ Demo Video
+👉 [Watch on LinkedIn](https://www.linkedin.com/posts/shyam-manohar-gupta-a12726230_codsoft-internship-tictactoe-activity-7352294552768057346-uj1S?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnFpC4BhQf1AIEeGv1NiCGPl0Zf18kbSHE)
